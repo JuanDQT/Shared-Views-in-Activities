@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivitySharedVIew</string>
+    <string name="movie_obj" />
+    <string name="movie_poster_transition" />
+</resources>
